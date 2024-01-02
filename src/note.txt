@@ -1,0 +1,9 @@
+- src/
+  - app.js
+  - server/
+    - server.js      // Configuração e inicialização do servidor
+  - config/
+    - config.js      // Configurações gerais
+    - sequelize.js   // Configuração do Sequelize
+  - models/
+    - index.js       // Configuração e definição de modelos usando Sequelize
